@@ -1,3 +1,6 @@
+## This project was developed by SKKU Smart Construction Lab directed by SH Sim. which was sponsored by KEPCO E&C Smart Convergence Lab.
+
+
 ## Crack segmentation
 # Background
 * This repository is for crack segmentation using Deep learning.
